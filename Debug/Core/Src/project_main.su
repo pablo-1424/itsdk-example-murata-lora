@@ -1,0 +1,3 @@
+../Core/Src/project_main.c:69:6:task	96	static
+../Core/Src/project_main.c:148:6:project_setup	8	static
+../Core/Src/project_main.c:173:6:project_loop	8	static

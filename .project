@@ -30,4 +30,11 @@
 		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
 		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>stm32-it-sdk</name>
+			<type>2</type>
+			<location>C:/work/stm32-it-sdk</location>
+		</link>
+	</linkedResources>
 </projectDescription>
